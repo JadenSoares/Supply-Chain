@@ -2,4 +2,4 @@ This Power BI report offers a detailed and interactive overview of Supply Chain 
 
 Developed using Power BI Desktop, the report uses DAX to define calculated measures and Power Query for data shaping and integration. The main file in this repository is Supply_Chain_Jaden.pbix.
 
-To get started, open the .pbix file with Power BI Desktop. You can explore the various visuals, apply filters to customize the view, and connect your own data if you'd like to adapt the dashboard for different scenarios.
+
